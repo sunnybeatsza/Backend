@@ -5,7 +5,7 @@ const port = 3000; // or any other port you prefer
 
 const fetchData = async () => {
   const url =
-    "https://numbersapi.p.rapidapi.com/6/21/date?fragment=true&json=true";
+    "https://numbersapi.p.rapidapi.com/9/11/date?fragment=true&json=true";
   const options = {
     method: "GET",
     headers: {
