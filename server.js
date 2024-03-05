@@ -1,6 +1,5 @@
 const express = require("express");
 const app = express();
-const fetch = require("node-fetch");
 
 const port = 3000; // or any other port you prefer
 
